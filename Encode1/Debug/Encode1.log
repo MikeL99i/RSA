@@ -1,0 +1,3 @@
+﻿  encode1.c
+c:\c++\c++ workspace\poa_v7_a2\encode1\encode1.c(62): warning C4013: 'getch' undefined; assuming extern returning int
+  Encode1.vcxproj -> C:\C++\C++ Workspace\POA_V7_A2\Debug\Encode1.exe

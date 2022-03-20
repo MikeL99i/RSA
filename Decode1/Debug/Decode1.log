@@ -1,0 +1,6 @@
+﻿  decode1.c
+c:\c++\c++ workspace\poa_v7_a2\decode1\decode1.c(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\c++ workspace\poa_v7_a2\decode1\decode1.c(51): warning C4018: '>=': signed/unsigned mismatch
+c:\c++\c++ workspace\poa_v7_a2\decode1\decode1.c(90): warning C4013: 'getch' undefined; assuming extern returning int
+c:\c++\c++ workspace\poa_v7_a2\decode1\decode1.c(18): warning C4101: 'key_string': unreferenced local variable
+  Decode1.vcxproj -> C:\C++\C++ Workspace\POA_V7_A2\Debug\Decode1.exe
